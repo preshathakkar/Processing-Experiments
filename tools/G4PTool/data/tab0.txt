@@ -1,0 +1,22 @@
+// Need G4P library
+import g4p_controls.*;
+
+
+void setup(){
+  size(WIDTH, HEIGHT);
+  createGUI();
+  customGUI();
+  // Place your setup code here
+  
+}
+
+void draw(){
+  background(230);
+  
+}
+
+// Use this method to add additional statements
+// to customise the GUI controls
+void customGUI(){
+
+}
